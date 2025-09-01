@@ -48,7 +48,6 @@ The dataset (`E-Commerce Dashboard.xlsx`) contains order data for an e-commerce 
 | Region             | Part of a country                                    |
 | Months             | Month of placing the order                           |
 
-**Dataset File**: [E-Commerce Dashboard.xlsx](dataset/E-Commerce_Dashboard.xlsx)
 
 ---
 
